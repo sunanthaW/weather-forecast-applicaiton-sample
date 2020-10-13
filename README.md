@@ -2,7 +2,7 @@
 This is sample spring boot project
 
 # Requirement
-This project need [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+This project need [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed in your environment
 
 
 
